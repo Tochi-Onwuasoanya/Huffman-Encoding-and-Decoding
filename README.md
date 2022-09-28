@@ -1,6 +1,5 @@
 # Huffman-Encoding-and-Decoding
-A lossless compression program for text files, images, or any other binary input in Java 
-Successfully compresses up to 95% of size in O(N*log(N))
+A lossless compression program for text files, images, or any other binary input in Java. Successfully compresses up to 95% of size in O(N*log(N))
 # Overview
  This project contains a program for performing Huffman enoding-decoding (or compression-decompression) for different files. This is done by encoding files using the huffman algorithm, and then decoding the file. 
  # Encode
